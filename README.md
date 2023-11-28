@@ -3,8 +3,8 @@ This a repository setup as a **backup** of my **Certified Red Team Operative** *
 
 # Contents
 [[1. Domain Environment]] <br/>
-2. Active Directory & Organisational Units
-3. Group Policy 
+2. Active Directory & Organisational Units <br/>
+3. Group Policy <br/>
 
 `More To Come Soon as I move forward with the exam preparation.`
 
