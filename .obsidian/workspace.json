@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "037d381288763c2e",
+        "id": "0dced33dd2504c19",
         "type": "tabs",
         "children": [
           {
-            "id": "14f6182355213b08",
+            "id": "a0dee421db602e28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain Environment.md",
+                "file": "2. Active Directory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b2a1e2c060c751d4",
+            "id": "d6adf8b875cd94c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory and OUs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77a589dfd67a44e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Active Directory and OUs.md",
+                "file": "3. Users, Groups & Computers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Active Directory and OUs.md",
+                "file": "2. Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Active Directory and OUs.md",
+                "file": "2. Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Active Directory and OUs.md"
+                "file": "2. Active Directory.md"
               }
             }
           }
@@ -171,11 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77a589dfd67a44e7",
+  "active": "a0dee421db602e28",
   "lastOpenFiles": [
-    "Group Policy Fundamentals.md",
-    "Active Directory and OUs.md",
-    "Domain Environment.md",
+    "README.md",
+    "4. Group Policy Fundamentals.md",
+    "3. Users, Groups & Computers.md",
+    "2. Active Directory.md",
+    "1. Domain Environment.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
     "Introduction To Active Directory.md"
   ]
 }

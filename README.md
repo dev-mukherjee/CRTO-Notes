@@ -1,7 +1,7 @@
 This a repository setup as a **backup** of my **Certified Red Team Operative** **(CRTO)** Exam Preparation **Notes**. This notes are specially designed for **beginners**.
 
 # Contents
-1. Domain Environment
+[[1. Domain Environment]]
 2. Active Directory & Organisational Units
 3. Group Policy 
 
