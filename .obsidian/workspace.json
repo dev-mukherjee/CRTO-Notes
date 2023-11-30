@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0dced33dd2504c19",
+        "id": "193a1f63c9894849",
         "type": "tabs",
         "children": [
           {
-            "id": "a0dee421db602e28",
+            "id": "9925b17259ed1fb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d6adf8b875cd94c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Users, Groups & Computers.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,15 +138,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0dee421db602e28",
+  "active": "9925b17259ed1fb6",
   "lastOpenFiles": [
+    "3. Users, Groups & Computers.md",
+    "4. Group Policy Fundamentals.md",
+    "Domain Structure MindMap.canvas",
+    "README.md",
     "1. Domain Environment.md",
     "2. Active Directory.md",
-    "README.md",
+    "Res/windows.png",
+    "Res/client.jpeg",
+    "Res/server.png",
+    "Res",
+    "Images/server.png",
+    "Images",
+    "**Users, Groups & Computers.md",
+    "Untitled",
     "Untitled.md",
-    "4. Group Policy Fundamentals.md",
-    "3. Users, Groups & Computers.md",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Introduction To Active Directory.md"
   ]
